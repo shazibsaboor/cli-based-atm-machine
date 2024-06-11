@@ -76,4 +76,3 @@ if (yourPin.pin === atmPin) {
 } else {
     console.log(chalk.red("Invalid pin"))
 }
-
